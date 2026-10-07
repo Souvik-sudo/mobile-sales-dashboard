@@ -1,6 +1,6 @@
 # 📱 Mobile Sales Dashboard
 
-An interactive Power BI dashboard analyzing Motorola-branded mobile phone sales — 
+An interactive Power BI dashboard analyzing mobile phone sales across brands, models, cities, payment methods, and customer ratings.
 built as a hands-on learning project while following Satish Dhawale's Power BI course.
 
 ## 📊 What It Shows
@@ -28,7 +28,7 @@ Average = AVERAGE(Sales_Data[Price Per Unit])
 Power BI Desktop · Power Query · DAX
 
 ## 📁 Repository Structure
-
+```text
 mobile-sales-dashboard/
 ├── README.md
 ├── data/
@@ -39,7 +39,7 @@ mobile-sales-dashboard/
 │ └── dashboard_overview.png
 └── docs/
 └── methodology.md
-
+```
 
 
 ## 📸 Preview
